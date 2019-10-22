@@ -10,6 +10,6 @@ menu:
     weight: 3
   footer:
     identifier: _posts
-    weight: 2
+    weight: 1
 
 ---
